@@ -1,1 +1,2 @@
 # html-health-companion
+Developed a responsive web-based fitness tracker using HTML, CSS, and JavaScript to record and monitor key health metrics including water intake, exercise duration, and calorie consumption. Implemented local storage functionality to preserve user entries across sessions and dynamically display historical data in a structured tabular format. The project emphasizes user-friendly design and real-time data management for personal health monitoring.
